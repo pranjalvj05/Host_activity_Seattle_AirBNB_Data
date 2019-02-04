@@ -11,8 +11,11 @@ The following Airbnb activity is included in this Seattle dataset: * Listings, i
 ### Data
 Data found at Kaggle.com
 https://www.kaggle.com/airbnb/seattle
+
 listings.csv 
+
 calender.csv 
+
 review.csv 
 
 ### Motivation 
