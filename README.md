@@ -22,14 +22,15 @@ review.csv
 
 I got my interest in this project because as a travelling purpose one of the most important thing we concern about is finding a good  accomodation in our suitable prices . In this project the given dat is all about finding these insights which I mentioned. 
 
-### AirBnB reservation price according to AirBnB official website information:
+## Files
 
-Costs determined by the host:
-Nightly price
-Cleaning fee
-Extra guest fees
-Costs determined by Airbnb
-currency exchange fees, VAT, other local taxes etc
+This repository containes three files:
+
+1. README.md - Contains Project Overview and UNderstanding 
+
+2. Host_activity_Anaysis_Seatte_AirBNB_Project.ipynb - This is python notebook which contains all my analysis and predictions through code and visuals.
+
+3. Host_activity_Anaysis_Seatte_AirBNB_Project.html - Html File of above mentioned notebook
 
 ### AirBnB reservation price according to AirBnB official website information:
 
